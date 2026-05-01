@@ -1,0 +1,51 @@
+VelosBot — Proprietary License
+
+Copyright (c) 2026 VelosBot. All rights reserved.
+
+This repository contains product documentation, screenshots, and marketing
+materials for the VelosBot Binance P2P bot. The bot software itself
+(BotClient.exe, the VelosBot Android application, and the VelosBot licensing
+server) is proprietary and is NOT open source.
+
+PERMITTED USES
+--------------
+You may:
+  - View this repository for product information.
+  - Link to this repository or to velosbot.com from your own properties.
+  - Quote short excerpts of this documentation when referencing or reviewing
+    the product, with clear attribution to VelosBot and a link back to
+    velosbot.com.
+
+PROHIBITED USES
+---------------
+You may NOT, without prior written permission from VelosBot:
+  - Copy, redistribute, or republish this repository or substantial portions
+    of its content (including the README, screenshots, or branding).
+  - Fork this repository in a way that misrepresents authorship, implies that
+    the fork is an official VelosBot release, or removes attribution to
+    VelosBot.
+  - Reverse-engineer, decompile, disassemble, or attempt to extract the
+    source code of any VelosBot software (BotClient.exe, the Android app,
+    or the licensing server).
+  - Use the VelosBot name, logo, or branding to promote products or services
+    that are not VelosBot's own.
+
+ATTRIBUTION
+-----------
+The author (VelosBot) does not consent to being listed as a contributor or
+co-author in unauthorized forks or copies of this repository. If you find
+an unauthorized fork or copy that misuses the VelosBot name, please report
+it to GitHub Support and to us at https://wa.me/48452516643.
+
+NO WARRANTY
+-----------
+THIS REPOSITORY AND THE VELOSBOT SOFTWARE ARE PROVIDED "AS IS", WITHOUT
+WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. IN NO EVENT SHALL VELOSBOT BE
+LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF
+THIS REPOSITORY OR THE VELOSBOT SOFTWARE.
+
+CONTACT
+-------
+Website:   https://velosbot.com
+WhatsApp:  +48 452 516 643
+Telegram:  https://t.me/VelosbotSupport
